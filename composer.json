@@ -1,5 +1,5 @@
 {
-    "name": "shiiva/testadd2",
+    "name": "shiva/testadd2",
     "description": "simple test",
     "autoload": {
         "psr-4": {
