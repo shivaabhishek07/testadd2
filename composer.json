@@ -1,0 +1,16 @@
+{
+    "name": "shiva/testadd2",
+    "description": "simple test",
+    "autoload": {
+        "psr-4": {
+            "Shiva\\Testadd2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shivaabhishek07",
+            "email": "shivaabhishek71@gmail.com"
+        }
+    ],
+    "require": {}
+}
